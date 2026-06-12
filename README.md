@@ -9,7 +9,7 @@
 
 <!-- Typing SVG - dynamic role animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=const+role+%3D+%22Frontend+Developer%22;Building+beautiful+UIs+%F0%9F%8E%A8;React+%7C+Node.js+%7C+MongoDB+stack;Targeting+Google+%2F+Meta+%2F+Microsoft+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=const+role+%3D+%22FullStack+Developer%22;Building+beautiful+UIs+%F0%9F%8E%A8;React+%7C+Node.js+%7C+MongoDB+stack;Targeting+Google+%2F+Meta+%2F+Microsoft+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
