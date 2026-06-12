@@ -1,37 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aanantha%20Raman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20MCA%20Student%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=16" />
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aanantha%20Raman%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Frontend%20Developer%20%E2%80%A2%20MCA%20Student%20%E2%80%A2%20Future%20Big%20Tech%20Engineer&descAlignY=68&descSize=14&stroke=a78bfa&strokeWidth=2" />
 
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanantharaman&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aanantharaman?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<!-- Typing SVG - dynamic role animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=const+role+%3D+%22Frontend+Developer%22;Building+beautiful+UIs+%F0%9F%8E%A8;React+%7C+Node.js+%7C+MongoDB+stack;Targeting+Google+%2F+Meta+%2F+Microsoft+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-### 👨‍💻 About Me
+<br/>
 
-```javascript
-const aanantha = {
-  name:       "Aanantha Raman R",
-  education:  "MCA (Master of Computer Applications)",
-  role:       "Frontend Developer",
-  location:   "India 🇮🇳",
-  goal:       "Build impactful products @ Google / Meta / Microsoft",
-  email:      "aanantharaman2005@gmail.com",
-  funFact:    "I turn ☕ into clean, beautiful UI"
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aanantharaman&label=Profile+Views&color=7c3aed&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/aanantharaman?label=Followers&style=flat-square&color=5b21b6" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✓-10b981?style=flat-square" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Developer at work" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+```ts
+const aanantha: Developer = {
+  name:      "Aanantha Raman R",
+  education: "MCA — Master of Computer Applications",
+  role:      "Frontend Developer",
+  location:  "India 🇮🇳",
+  goal:      "Ship impactful products @ Google / Meta / Microsoft",
+  email:     "aanantharaman2005@gmail.com",
+  passions:  ["Clean UI", "Open Source", "Dev Tools"],
+  funFact:   "I turn ☕ into pixel-perfect interfaces",
 };
 ```
 
-- 🎓 Currently pursuing **MCA (Master of Computer Applications)**
-- 💻 Passionate about crafting responsive & beautiful web experiences
-- 👯 Looking to collaborate with world-class teams at **Google / Meta / Microsoft**
-- 🚀 Always exploring new technologies and open-source projects
-- ⚡ Fun fact: I'm a **Tech Enthusiast** who never stops building
+<br/>
+
+- 🎓 Pursuing **MCA** — sharpening both CS fundamentals & product thinking
+- 💡 Obsessed with **responsive, accessible, beautiful** web experiences
+- 🤝 Actively seeking collaborations on **open-source & side projects**
+- 🔭 Currently exploring **TypeScript**, **Next.js**, and **system design**
+- ⚡ Never stops building — even at 2 AM
 
 <br clear="right"/>
 
@@ -41,26 +57,32 @@ const aanantha = {
 
 <div align="center">
 
-**Frontend**
+**› Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend & Database**
+**› Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools & Design**
+**› Tools & Design**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 </div>
 
@@ -69,12 +91,20 @@ const aanantha = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aanantharaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aanantharaman&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanantharaman&layout=compact&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aanantharaman&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aanantharaman&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aanantharaman&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aanantharaman&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
+</picture>
+
+<picture>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanantharaman&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" />
+</picture>
+
 </div>
 
 ---
@@ -82,19 +112,27 @@ const aanantha = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aanantharaman&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aanantharaman&theme=onestar&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanantharaman&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aanantha-raman-r-65573532a](https://www.linkedin.com/in/aanantha-raman-r-65573532a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/raman_official_800](https://www.instagram.com/__ramxn.__?igsh=dHRiNHN2ZzA3dXpn))
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ramxn01)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanantharaman2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aanantha%20Raman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanantha-raman-r-65573532a)
+[![Instagram](https://img.shields.io/badge/Instagram-@__ramxn.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__ramxn.__)
+[![X / Twitter](https://img.shields.io/badge/X-@ramxn01-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ramxn01)
+[![Gmail](https://img.shields.io/badge/Gmail-aanantharaman2005-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanantharaman2005@gmail.com)
 
 </div>
 
@@ -102,9 +140,16 @@ const aanantha = {
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💬 Dev Quote of the Day
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+
+*"The best code is the code that makes others say — 'I wish I wrote that.'"*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%9C&fontSize=22&fontColor=ffffff&animation=fadeIn" />
 
 </div>
