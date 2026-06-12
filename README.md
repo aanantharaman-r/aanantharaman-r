@@ -32,7 +32,7 @@
 const aanantha: Developer = {
   name:      "Aanantha Raman R",
   education: "MCA — Master of Computer Applications",
-  role:      "Frontend Developer",
+  role:      "FullStack Developer",
   location:  "India 🇮🇳",
   goal:      "Ship impactful products @ Google / Meta / Microsoft",
   email:     "aanantharaman2005@gmail.com",
