@@ -91,8 +91,8 @@ const aanantha = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanantha-raman-r-65573532a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raman_official_800)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aanantha-raman-r-65573532a](https://www.linkedin.com/in/aanantha-raman-r-65573532a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/raman_official_800](https://www.instagram.com/__ramxn.__?igsh=dHRiNHN2ZzA3dXpn))
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ramxn01)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanantharaman2005@gmail.com)
 
